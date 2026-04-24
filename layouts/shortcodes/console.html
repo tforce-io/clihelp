@@ -1,1 +1,1 @@
-<div style="font-family: monospace; white-space: pre-wrap;">{{ .Inner }}</div>
+<div style="font-family: monospace; white-space: pre-wrap;">{{ .Inner | replace "&lt;" "&lt;" | replace "&gt;" "&gt;" }}</div>
