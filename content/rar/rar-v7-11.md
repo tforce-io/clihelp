@@ -1,10 +1,10 @@
 ---
-title: rar v7.1.1
+title: rar v7.11
 type: docs
 bookToC: false
 ---
 
-# rar v7.1.1
+# rar v7.11
 
 ## Version info
 
